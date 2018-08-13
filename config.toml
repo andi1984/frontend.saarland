@@ -1,4 +1,17 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "saarland"
+baseURL = "https://frontend.saarland"
+DefaultContentLanguage = "de"
+relativeURLs = "true"
+pygmentsCodeFences = "true"
+pygmentsStyle = "vs"
+enableRobotsTXT = true
+
+[Languages]
+  [Languages.en]
+    title = "Frontend news from federal state of Saarland (Germany) "
+    weight = 1
+    languageCode = "en-us"
+
+  [Languages.de]
+    title = "Um <time>12:00</time> gebbd gess!"
+    weight = 2
+    languageCode = "de-de"
