@@ -1,12 +1,13 @@
 {{define "main"}}
-{{.Content}}
-
-Letzte Blogposts:
-<ul>
-    {{ range .Pages }}
-    <li>
-        <a href="{{.Permalink}}">{{.Title}}</a>
-    </li>
-    {{ end }}
-</ul>
+    {{.Content}}
+    {{if len .Pages}}
+        Letzte Blogposts:
+        <ol>
+            {{ range .Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Title}}</a>
+            </li>
+            {{ end }}
+        </ol>
+    {{end}}
 {{end}}
