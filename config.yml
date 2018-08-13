@@ -1,0 +1,17 @@
+baseURL: "https://frontend.saarland"
+DefaultContentLanguage: "de"
+relativeURLs: "true"
+pygmentsCodeFences: "true"
+pygmentsStyle: "vs"
+enableRobotsTXT: true
+
+languages:
+  en:
+    title: "Frontend news from federal state of Saarland (Germany) "
+    weight: 1
+    languageCode: "en-us"
+
+  de:
+    title: "Um <time>12:00</time> gebbd gess!"
+    weight: 2
+    languageCode: "de-de"
