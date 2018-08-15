@@ -1,0 +1,35 @@
+baseURL: "https://frontend.saarland"
+blackfriday:
+  noreferrerLinks: true
+DefaultContentLanguage: "de"
+relativeURLs: "true"
+pygmentsCodeFences: "true"
+pygmentsStyle: "vs"
+enableRobotsTXT: true
+
+languages:
+  en:
+    title: "Frontend@Saarland"
+    languageName: "English"
+    weight: 1
+    languageCode: "en-us"
+    params:
+      description: Frontend news from federal state of Saarland (Germany)
+      keywords:
+        - Frontend
+        - Saarland
+        - Germany
+        - Meetups
+
+  de:
+    title: "Frontend@Saarland"
+    languageName: "German"
+    weight: 2
+    languageCode: "de-de"
+    params:
+      description: Neuigkeiten, Jobs und Meetups für alle Pixelschubser im Saarland.
+      keywords:
+        - Webentwicklung
+        - Saarland
+        - Frontend
+        - Meetups
