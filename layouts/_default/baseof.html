@@ -6,6 +6,11 @@
         <main>
         {{- block "main" . }}{{- end }}
         </main>
+        <aside>
+        {{- block "aside" .}}
+            {{- partial "linkToTranslations.html" . -}}
+        {{- end }}
+        </aside>
         {{- partial "footer.html" . -}}
     </body>
 </html>

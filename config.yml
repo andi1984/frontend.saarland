@@ -8,10 +8,12 @@ enableRobotsTXT: true
 languages:
   en:
     title: "Frontend news from federal state of Saarland (Germany) "
+    languageName: "English"
     weight: 1
     languageCode: "en-us"
 
   de:
     title: "Um <time>12:00</time> gebbd gess!"
+    languageName: "German"
     weight: 2
     languageCode: "de-de"
