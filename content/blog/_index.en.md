@@ -1,6 +1,6 @@
 ---
 title: blog
-draft: true
+draft: false
 ---
 
 # Something new

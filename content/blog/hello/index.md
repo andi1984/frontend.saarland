@@ -1,7 +1,7 @@
 ---
 title: "Hallo Welt"
 date: 2018-08-15T16:07:00+02:00
-draft: true
+draft: false
 ---
 
 # `<h1>Hallo Welt!</h1>`

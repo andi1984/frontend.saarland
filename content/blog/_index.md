@@ -1,6 +1,6 @@
 ---
 title: Blog
-draft: true
+draft: false
 ---
 
 # Ebbes neies…
