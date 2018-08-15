@@ -1,0 +1,19 @@
+{
+  "name": "frontend.saarland",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andi1984/frontend.saarland.git"
+  },
+  "author": "Andreas Sander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andi1984/frontend.saarland/issues"
+  },
+  "homepage": "https://github.com/andi1984/frontend.saarland#readme"
+}
