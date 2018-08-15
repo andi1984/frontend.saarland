@@ -1,6 +1,10 @@
 <head>
     <meta charset="utf-8">
-    <title>{{.Title}} ({{$.Site.Title}})</title>
+    <title>{{.Title}} {{if eq .IsHome false}} - {{$.Site.Title}}{{end}}</title>
+    <meta name="description" content="{{if or .IsHome (not .Description)}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+    {{ $keywords := cond (or .IsHome (not .Keywords)) $.Site.Params.keywords .Keywords }}
+    <meta name="keywords" content="{{delimit $keywords ", "}}" />
+
      {{ if .IsTranslated }}
         {{ range .Translations }}
             <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
