@@ -14,3 +14,8 @@ In unserem [**Blog**]({{< ref "/blog" >}}) halten wir euch auf dem Laufenden und
 Falls du uns _ned versteschd_, schau mal [hier](http://www.stefan-im-www.de/Saar-Dateien/Saarbrigger%20Platt%20mit%20Frame.htm) nach!
 
 _Jetzd is awwa zabbe!_ 😂
+
+---
+
+[**Impressum**]({{< ref "/imprint" >}})
+[**Datenschutzerklärung**]({{< ref "/privacypolicy" >}})
