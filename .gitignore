@@ -62,3 +62,6 @@ typings/
 
 # Hugo
 public
+resources
+assets
+static
