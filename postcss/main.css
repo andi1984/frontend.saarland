@@ -51,6 +51,12 @@ main {
   margin: -2vw auto;
   padding: 2vw;
   position: relative;
+  box-shadow: 0 30px 50px var(--shadow);
+}
+@media (min-width: 800px) {
+  main {
+    box-shadow: 0 40px 100px var(--shadow);
+  }
 }
 
 h1,
