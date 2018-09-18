@@ -12,4 +12,5 @@ Im Stockwald 12<br>
 
 Credits:
 
-[Background image _"Memphis Colorful"_ from Toptal](https://www.toptal.com/designers/subtlepatterns/memphis-colorful/)
+- Header image _"Paper.Webentwicklerstammtisch"_ from [Sarah Kempf](https://eikuhdu.de/)
+- [Background image _"Memphis Colorful"_ from Toptal](https://www.toptal.com/designers/subtlepatterns/memphis-colorful/)

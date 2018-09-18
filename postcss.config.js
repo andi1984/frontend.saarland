@@ -3,6 +3,7 @@ module.exports = {
     require("autoprefixer"),
     require("postcss-import"),
     require("postcss-custom-properties"),
-    require("css-mqpacker")
+    require("css-mqpacker"),
+    require("postcss-easing-gradients")
   ]
 };
