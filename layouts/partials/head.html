@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>{{.Title}} {{if eq .IsHome false}} - {{$.Site.Title}}{{end}}</title>
+    <meta name="viewport" content="width=device-width" />
     <meta name="description" content="{{if or .IsHome (not .Description)}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
     {{ $keywords := cond (or .IsHome (not .Keywords)) $.Site.Params.keywords .Keywords }}
     <meta name="keywords" content="{{delimit $keywords ", "}}" />

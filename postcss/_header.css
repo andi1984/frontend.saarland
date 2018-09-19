@@ -22,4 +22,5 @@
     padding: 10px;
     background-color: var(--sunglow);
     color: var(--black);
+    display: inline-block;
 }
