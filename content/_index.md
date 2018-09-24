@@ -20,3 +20,4 @@ _Jetzd is awwa zabbe!_ 😂
 [**Impressum**]({{< ref "/imprint" >}})
 [**Datenschutzerklärung**]({{< ref "/privacypolicy" >}})
 [**Newsletter**](http://eepurl.com/dG-98L)
+[**Youtube**](https://www.youtube.com/channel/UCY5OO4KEyHE8HhERXYuPFpA)
