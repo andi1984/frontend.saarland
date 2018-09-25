@@ -5,7 +5,7 @@
         {{- partial "header.html" . -}}
 
         <main>
-            {{- block "main" . }}{{- end }}
+            <section>{{- block "main" . }}{{- end }}</section>
             <aside>
             {{- block "aside" . -}}
                 {{- partial "linkToTranslations.html" . -}}

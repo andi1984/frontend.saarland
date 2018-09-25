@@ -5,4 +5,4 @@ draft: false
 
 # Ebbes neies…
 
-_Hier findest du die neusten Informationen. (todo)_
+_Hier findest du die neusten Informationen._

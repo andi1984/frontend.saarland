@@ -9,7 +9,7 @@ Schön, dass du da bist. Du bist Saarländer, ziehst ins Saarland oder bist einf
 
 ## Unn?
 
-In unserem [**Blog**]({{< ref "/blog" >}}) halten wir euch auf dem Laufenden und wenn du willst kannst du in unserem [**Slack**](https://webdeveloper-slack.herokuapp.com) über neuste Themen mitdiskutieren.
+In unserem [**Blog**]({{< ref "/blog" >}}) halten wir euch auf dem Laufenden und wenn du willst kannst du in unserem [**Slack**](https://webdeveloper-slack.herokuapp.com) über neuste Themen mitdiskutieren oder schaue dir unsere [**Meetups**]({{< ref "/meetups" >}}) an.
 
 Falls du uns _ned versteschd_, schau mal [hier](http://www.stefan-im-www.de/Saar-Dateien/Saarbrigger%20Platt%20mit%20Frame.htm) nach!
 

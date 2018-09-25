@@ -1,0 +1,27 @@
+{{define "main"}}
+<article>
+    {{.Content}}
+</article>
+{{end}}
+
+{{define "aside"}}
+    {{ if isset .Params "registration"}}
+        <h2><a href="{{ .Params.registration}}" target="_blank">🙋🙋‍♂️</a></h2> 
+    {{ end }}
+    {{ if isset .Params "when"}}
+        <h2>⏰</h2>
+        {{ dateFormat "2. January 2006" .Params.when }}
+    {{ end }}
+    {{ if isset .Params "venue" }}
+        <h2>🗺</h2>
+        {{ with .Site.GetPage "venues" }}
+            {{ with (index (.Resources.Match $.Params.venue) 0) }}
+                <address>
+                    <a href="{{ .Params.link }}" target="_blank">{{ .Params.name }}</a><br />
+                    {{ .Params.street }},<br />
+                    {{ .Params.zip}} {{ .Params.city}}
+                </address>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{end}}
