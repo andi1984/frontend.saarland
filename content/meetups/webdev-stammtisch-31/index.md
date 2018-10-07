@@ -12,3 +12,5 @@ registration: https://www.meetup.com/de-DE/Webdeveloper-Stammtisch-Saar/events/2
 Am 04. Oktober haben wir Sven Wolfermann aka. [@maddesigns](https://twitter.com/@maddesigns) virtuell zu Gast, der uns zum Thema [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) Rede und Antwort stehen wird.
 
 [Fragen an Sven werden bereits im Voraus gesammelt und dann in unserer Diskussionsrunde vor Ort mit eingebracht.](https://docs.google.com/document/d/1HgA4u0VPShOpIKN_5kdt--j_SGhs3D5IW230kk33we0/edit)
+
+{{< youtube 03sVz4z6A-A >}}
