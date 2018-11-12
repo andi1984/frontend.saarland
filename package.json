@@ -40,6 +40,6 @@
   },
   "browserslist": "last 10 versions, ie 10",
   "dependencies": {
-    "normalize.css": "^8.0.0"
+    "normalize.css": "^8.0.1"
   }
 }
