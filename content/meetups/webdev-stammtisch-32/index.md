@@ -15,3 +15,11 @@ Am 08. November haben wir David Würfel von [Centigrade](https://www.centigrade.
 * Vorstellung der essentielle Bestandteile und grundlegende Architektur einer Angular Anwendung
 * Kurzeinführung in TypeScript und Angular Template Syntax
 * Anhand von LiveCoding und interaktiver Fragerunde
+
+## Downloads
+
+* [Slides zum Vortrag](https://speakerdeck.com/mrcube42/angular-at-webdeveloper-stammtisch-saar-32)
+
+
+
+
