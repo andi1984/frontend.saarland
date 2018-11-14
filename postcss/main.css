@@ -1,6 +1,7 @@
 @import "_normalize.css";
 @import "_colors.css";
 @import "_header.css";
+@import "_intrinsic-size.css";
 
 * {
   box-sizing: border-box;
@@ -61,4 +62,10 @@ h6 {
   text-transform: uppercase;
   font-style: italic;
   text-shadow: 1px 1px 0 var(--sunglow);
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
 }
