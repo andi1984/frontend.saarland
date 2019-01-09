@@ -15,3 +15,7 @@ Am 03. Januar 2019 haben wir [Alex Zerr](https://github.com/xelaz) virtuell bei 
 > 
 > Hier das Video vom Livestream:
 > {{< youtube 4HhEg4wAjmQ >}}
+
+## Downloads
+
+- [Das Webpack (+ Tailwind) Starter Repo von Alex Vortrag](https://github.com/webdevelopersaar/januar_webpack-starter)
