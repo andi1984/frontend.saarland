@@ -22,3 +22,7 @@ Wir könnten daher das Meetup stadtnah veranstalten, um im Anschluss das Treffen
 
 
 {{< 16to9 >}}<iframe src="https://poster-rdxyhvbimr.now.sh/meetup-announcement"></iframe>{{</ 16to9>}}
+
+## Downloads
+
+* [Slides zum Vortrag](https://speakerdeck.com/mknet/kommunikation-in-agilen-teams)
