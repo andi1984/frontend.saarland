@@ -1,7 +1,7 @@
 ---
 title: Webdevel No. 34 - Webpack & Tailwind.css
 date: 2019-01-09T22:00:01+02:00
-draft: True
+draft: false
 when: 2019-01-03
 venue: madco.md
 registration: https://www.meetup.com/de-DE/Webdeveloper-Stammtisch-Saar/events/256478966/
