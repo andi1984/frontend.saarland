@@ -35,7 +35,7 @@
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.28.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.2.3",
     "webpack-dashboard": "^2.0.0"
   },
   "browserslist": "last 10 versions, ie 10",
